@@ -10,5 +10,6 @@ public class Hello {
         System.out.println("第三次");
         System.out.println("修复bug");
         System.out.println("完成注册");
+        
     }
 }
