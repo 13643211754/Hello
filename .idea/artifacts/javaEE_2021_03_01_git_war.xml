@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="javaEE-2021-03-01-git:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>javaEE-2021-03-01-git</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="javaEE-2021-03-01-git-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="javaEE-2021-03-01-git:war exploded" />
+    </root>
+  </artifact>
+</component>
